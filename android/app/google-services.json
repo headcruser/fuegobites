@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612579073766",
+    "project_id": "fuego-bites",
+    "storage_bucket": "fuego-bites.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612579073766:android:144942c816c5ee6144e527",
+        "android_client_info": {
+          "package_name": "com.example.fuego_bites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612579073766-73f34ou7u1i7n7ds6arepaotb3jnb5ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWGUMBGvRZbisucdilVKvXV3ptv4Vi-Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612579073766-73f34ou7u1i7n7ds6arepaotb3jnb5ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
