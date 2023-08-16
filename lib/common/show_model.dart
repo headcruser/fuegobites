@@ -15,8 +15,9 @@ class NewOrderModel extends ConsumerWidget {
     super.key,
   });
 
-  final titleController = TextEditingController();
-  final descriptionController = TextEditingController();
+  final TextEditingController titleController = TextEditingController();
+  final TextEditingController descriptionController = TextEditingController();
+
 
   @override
   Widget build(BuildContext context,WidgetRef ref) {
